@@ -1,0 +1,20 @@
+#button
+{
+    text-decoration: none;
+    border: 0px solid;
+    background: transparent;
+}
+
+#forgivebutton
+{
+    color: black;
+    background-color: rgb(225, 225, 225);
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+#forgivebutton:hover
+{
+    box-shadow: 0 0 20px grey;
+    transition: 0.5s ease-in-out;
+}
